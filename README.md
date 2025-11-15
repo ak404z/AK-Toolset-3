@@ -9,7 +9,9 @@ This tool for Recon & Osint Phone/User/... & WebVuln..
 On kali linux :
 
 Step 1 : git clone https://github.com/ak404z/AK-Toolset-3.git
+
 Step 2 : Download libraries to run the tool
+
 Step 3 : To run the tool Write in Terminal (python AK_Toolset3.py)
 
 # Usage
